@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# SQL Server database files
+*.mdf
+*.ldf
+
+# Virtual environments
+venv/
+env/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
